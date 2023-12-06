@@ -1,0 +1,107 @@
+body {
+    background-color: rgb(196, 216, 210);
+}
+
+h1 {
+    color: rgb(49, 65, 23);
+    text-align: center;
+    font-family: monospace;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    padding: 10px;
+    margin: auto;
+    align-items: center;
+
+}
+
+nav {
+    padding: 20px;
+
+}
+
+.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #8aaf97;
+}
+
+.nav li {
+    float: left;
+}
+
+.nav li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav li a:hover {
+    background-color: #111;
+    color: white;
+}
+
+.ingredients li {
+
+    padding: 7px;
+}
+
+.recipes li {
+    font-family: 'Courier New', Courier, monospace;
+    padding: 7px;
+}
+
+
+section a {
+    font-family: monospace;
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(114, 104, 104);
+    padding: 10px;
+}
+
+section a:hover {
+    color: rgb(206, 101, 101);
+}
+
+.has-text-align-right {
+    text-align: right;
+}
+
+.center {
+    text-align: center;
+    padding: 10px;
+}
+
+
+h2 {
+    text-align: center;
+    color: #183623;
+}
+
+h3 {
+    color: rgb(206, 101, 101);
+    padding-top: 15px;
+    text-align: left;
+}
+
+#peruvian-chicken {
+    text-align: center;
+    color: rgb(206, 101, 101);
+}
+
+#lomo-saltado {
+    text-align: center;
+    color: rgb(206, 101, 101);
+}
+
+#aji-de-gallina {
+    text-align: center;
+    color: rgb(206, 101, 101);
+}
